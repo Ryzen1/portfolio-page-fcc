@@ -28,7 +28,7 @@ form input {
 }
 
 .bg-1 {
-    background: purple;
+    background: #7C5EBD; /*#E32D43;*/
     color: #fff;
 }
 
@@ -61,7 +61,7 @@ form input {
     float: left;
 }
 
-input[type="text"] {
+input[type="text"], textarea {
     opacity: 0.75;
     background: rgba(0, 0, 0, 0);
     border: none;
